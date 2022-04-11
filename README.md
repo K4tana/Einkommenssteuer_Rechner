@@ -6,7 +6,8 @@
 - Vorerst nur für Steuerklasse 1
 - Steuertarif: 2020. Wird aktualisiert, nachdem die Steuerreform 2022 durch ist.
 
-Befehl in R oder RStudio: \n
+Befehl in R oder RStudio:
+
 source("https://raw.githubusercontent.com/K4tana/Einkommenssteuer_Rechner/a9599d710e9f564f888b0f94237e7e882436bccd/ES_Rechner.R") 
 Die Funktion entfernt sich automatisch. 
 
