@@ -1,4 +1,4 @@
-# Einkommenssteuer_Rechner
+# Einkommenssteuer-Rechner
 [German only] Mit dieser App können Sie über R Ihre individuelle Einkommenssteuer berechnen. Einfach in R sourcen, Einkommen eingeben und man bekommt den individuellen Einskommens/Lohnsteuerbetrag sowie das Einkommen nach Steuern ausgegeben.
 
 - Nativ in Base R, keine Dependencies
