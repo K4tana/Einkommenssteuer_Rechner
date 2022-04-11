@@ -1,7 +1,7 @@
 #Lohn/Einkommenssteuer Berechnung in Deutschland
 #Tarif 2020: Berechnet Einkommenssteuer
 steuerBerechnen <- function(){
-  income <- readline(prompt="Jährliches Bruttogehalt eingeben: ")
+  income <- readline(prompt="Jaehrliches Bruttogehalt eingeben: ")
   # convert character into integer
   income <- as.integer(income)
   base <- 9408
