@@ -34,3 +34,5 @@ steuerBerechnen <- function(){
     }
   }
 }
+steuerBerechnen()
+rm(steuerBerechnen)
